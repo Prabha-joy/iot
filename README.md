@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasanna Balaji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Introduction to Serverless Iot </h3>
 
-- 🔭 I’m currently working on [Serverless Iot Data Processing](https://github.com/Prabha-joy/iot.git)
+# Project Title
+      **Serverless Iot Data Processing**
 
 - 👯 I’m looking to collaborate on **Multimedia streaming**
 
