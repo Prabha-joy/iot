@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm Prasanna Balaji</h1>
-<h3 align="center">Introduction to Serverless Iot </h3>
+# Smart Home System README
+Welcome to the Smart Home System! This README guide provides comprehensive information on how to navigate the website, update content, and manage dependencies.
+## _Table of Contents_
+- Introduction
+- Navigation
+- Updating Content
+- Dependencies
+- Troubleshooting
+- Contributing
+- License
 
-# Project Title
-      **Serverless Iot Data Processing**
+## Introduction
 
-- 👯 I’m looking to collaborate on **Multimedia streaming**
+The Smart Home System is a web-based interface designed to monitor, control, and automate various smart home devices. This guide will help you understand how to interact with the system and make necessary updates.
 
-- 🤝 I’m looking for help with **media streaming video streaming**
+## Navigation
+### Dashboard:
+The main dashboard provides an overview of connected devices and their current status.
+Navigate to the dashboard by clicking on the "Home" or "Dashboard" link in the navigation menu.
+### Device Control:
+Access device control features through the "Devices" section.
+Here, you can turn devices on/off, adjust settings, and view real-time data.
+### Automation:
+Create and manage automation routines in the "Automation" section.
+Set up rules to automate device actions based on specific conditions.
+### Settings:
+Access user-specific settings and preferences in the "Settings" section.
+Customize the interface, notifications, and other user preferences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasanna balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna balaji" height="30" width="40" /></a>
-<a href="https://fb.com/prasanna joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanna joy" height="30" width="40" /></a>
-<a href="https://instagram.com/joy._.looser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joy._.looser" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joy" height="30" width="40" /></a>
-</p>
+## Updating Content
+### Configuration File
+The configuration file, config.js, contains essential settings for the Smart Home System. 
+### Update this file to include:
+- IBM Cloud Credentials: Add the credentials for IBM Cloud services.
+- Device Integration Details: Include information about connected devices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## Website Content
+To update website content:
+
+### HTML Pages:
+HTML pages are located in the public directory. Edit these files to modify the structure and layout of the website.
+### CSS Styles:
+
+Styles are defined in the styles directory. Modify existing styles or add new ones in the CSS files.
+### JavaScript Logic:
+
+JavaScript logic is implemented in the scripts directory. Adjust scripts to enhance functionality or add new features.
+### Images:
+
+Images used in the website are stored in the images directory. Replace or add images as needed.
+
+## Dependencies
+The Smart Home System relies on the following dependencies:
+
+- Node.js and npm: Ensure Node.js and npm are installed on your system. If not, download and install them from nodejs.org.
+
+- IBM Cloud CLI: Install the IBM Cloud CLI from here.
+
+- Git: Git is used for version control. Install it from git-scm.com.
+
+- Other Dependencies: Additional dependencies are listed in the package.json file. Install them using npm install.
+
+## Troubleshooting
+
+If you encounter issues:
+
+- Check the console for error messages.
+- Review the documentation and verify configuration settings.
+- Visit the GitHub repository for known issues or open a new issue.
+
+## Contributing
+
+Feel free to contribute to the Smart Home System! Fork the repository, make changes, and submit a pull request. Follow the contribution guidelines outlined in the repository.
+
+## License
+This project is licensed under the MIT License.
+### Thank you for using the Smart Home System! If you have any questions or need further assistance, please refer to the documentation or contact the project maintainer.
